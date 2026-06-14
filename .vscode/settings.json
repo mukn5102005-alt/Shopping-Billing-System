@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Hp\\Downloads\\mssql-jdbc-12.10.2.jre11.jar",
+        "c:\\Users\\Hp\\Downloads\\jcalendar-1.4\\lib\\junit-4.6.jar",
+        "c:\\Users\\Hp\\Downloads\\jcalendar-1.4\\lib\\jgoodies-looks-2.4.1.jar",
+        "c:\\Users\\Hp\\Downloads\\jcalendar-1.4\\lib\\jgoodies-common-1.2.0.jar",
+        "c:\\Users\\Hp\\Downloads\\jcalendar-1.4\\lib\\jcalendar-1.4.jar"
+    ]
+}
