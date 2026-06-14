@@ -34,4 +34,4 @@ A desktop-based billing application developed using Java Swing, JDBC, and MySQL.
 ![Billing](ShopBillingSystem/src/screenshots/Billing.png)
 
 ### Sales Screen
-![Sales](ShopBillingSystem/src/screenshots/Sales%20.png)
+ ![Sales](ShopBillingSystem/src/screenshots/Sales.png)
