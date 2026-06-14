@@ -1,18 +1,37 @@
-## Getting Started
+ # Shopping Billing System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A desktop-based billing application developed using Java Swing, JDBC, and MySQL.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
+- User Login System
+- Product Management
+- Billing Generation
+- Sales Management
+- Database Connectivity
+- Dashboard Interface
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- Java Swing
+- JDBC
+- MySQL
+- VS Code
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Screenshots
 
-## Dependency Management
+### Login Screen
+![Login](ShopBillingSystem/src/screenshots/logib.png)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Dashboard
+![Dashboard](ShopBillingSystem/src/screenshots/Dashboard.png)
+
+### Product Management
+![Products](ShopBillingSystem/src/screenshots/Productmanagement.png)
+
+### Billing Screen
+![Billing](ShopBillingSystem/src/screenshots/Billing.png)
+
+### Sales Screen
+![Sales](ShopBillingSystem/src/screenshots/Sales%20.png)
